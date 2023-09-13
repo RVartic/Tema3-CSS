@@ -1,0 +1,23 @@
+fieldset {
+    background-color: salmon;
+}
+
+label {
+    color: skyblue;
+}
+
+input {
+    outline: none;
+}
+
+input[type=text] {
+    border: 1px solid green;
+}
+
+input[type=email] {
+    background-color: blue;
+}
+
+input[type=submit] {
+    background-color: green;
+}
