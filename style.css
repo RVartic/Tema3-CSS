@@ -10,14 +10,14 @@ input {
     outline: none;
 }
 
-input[type=text] {
+input[type="text"] {
     border: 1px solid green;
 }
 
-input[type=email] {
+input[type="email"] {
     background-color: blue;
 }
 
-input[type=submit] {
+input[type="submit"] {
     background-color: green;
 }
